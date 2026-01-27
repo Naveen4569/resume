@@ -7,7 +7,7 @@ production-grade microservices using Java, Spring Boot, and REST APIs.
 🔹 Experience integrating AI-assisted workflows into Java systems  
 🔹 Dockerized deployments and Agile delivery  
 
-📄 Resume: [Download PDF](./Naveen_Ramadheni_Java_Developer.pdf)
+📄 Resume: [Download PDF](./Naveen_Ramadheni.pdf)
 
 📫 Email: naveen1973465@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/naveen-ramadheni-24542b166
