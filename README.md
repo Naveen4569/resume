@@ -1,6 +1,6 @@
 # Naveen Babu Ramadheni – Java Full Stack Developer
 
-Java Backend / Full-Stack Developer with 1.5+ years of experience building
+Java Backend / Full-Stack Developer with 2+ years of experience building
 production-grade microservices using Java, Spring Boot, and REST APIs.
 
 🔹 Strong backend focus with microservices and CI/CD  
